@@ -1,5 +1,5 @@
 [package]
-name = "dbus_xml_match"
+name = "zbus_xml_match"
 version = "0.1.0"
 edition = "2021"
 
