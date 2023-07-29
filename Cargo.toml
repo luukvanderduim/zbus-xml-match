@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 zbus = { version = "3.14.1", features = ["xml"] }
+
+[dev-dependencies]
+atspi = "0.17.0"
